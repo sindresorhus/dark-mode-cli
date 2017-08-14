@@ -1,27 +1,27 @@
 {
-  "name": "dark-mode-cli",
-  "version": "2.0.0",
-  "description": "Control the macOS dark mode from the command-line",
-  "license": "MIT",
-  "repository": "sindresorhus/dark-mode-cli",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
-  },
-  "bin": {
-    "dark-mode": "dark-mode"
-  },
-  "files": [
-    "dark-mode"
-  ],
-  "keywords": [
-    "cli-app",
-    "cli",
-    "macos",
-    "dark",
-    "mode",
-    "control",
-    "toggle"
-  ]
+	"name": "dark-mode-cli",
+	"version": "2.0.0",
+	"description": "Control the macOS dark mode from the command-line",
+	"license": "MIT",
+	"repository": "sindresorhus/dark-mode-cli",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"bin": {
+		"dark-mode": "dark-mode"
+	},
+	"files": [
+		"dark-mode"
+	],
+	"keywords": [
+		"cli-app",
+		"cli",
+		"macos",
+		"dark",
+		"mode",
+		"control",
+		"toggle"
+	]
 }
