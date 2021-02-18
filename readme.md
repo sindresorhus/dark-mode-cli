@@ -6,7 +6,7 @@
 
 Convenience npm package for the [`dark-mode` binary](https://github.com/sindresorhus/dark-mode).
 
-<img src="screenshot.gif" width="509">
+<img src="https://raw.githubusercontent.com/sindresorhus/dark-mode/main/screenshot.gif" width="509">
 
 ## Install
 
