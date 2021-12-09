@@ -7,11 +7,9 @@
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"url": "https://sindresorhus.com"
 	},
-	"bin": {
-		"dark-mode": "dark-mode"
-	},
+	"bin": "dark-mode",
 	"files": [
 		"dark-mode"
 	],

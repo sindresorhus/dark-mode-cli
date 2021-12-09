@@ -2,7 +2,7 @@
 
 > Control the macOS dark mode from the command-line
 
-*Requires macOS 10.10 or later.*
+*Requires macOS 10.10 or later. macOS 10.13 or earlier needs to download the [Swift runtime support libraries](https://support.apple.com/kb/DL1998).*
 
 Convenience npm package for the [`dark-mode` binary](https://github.com/sindresorhus/dark-mode).
 
@@ -10,8 +10,8 @@ Convenience npm package for the [`dark-mode` binary](https://github.com/sindreso
 
 ## Install
 
-```
-$ npm install --global dark-mode-cli
+```sh
+npm install --global dark-mode-cli
 ```
 
 ## Usage
