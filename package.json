@@ -1,6 +1,6 @@
 {
 	"name": "dark-mode-cli",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "Control the macOS dark mode from the command-line",
 	"license": "MIT",
 	"repository": "sindresorhus/dark-mode-cli",
