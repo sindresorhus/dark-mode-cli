@@ -9,7 +9,9 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "https://sindresorhus.com"
 	},
-	"bin": "dark-mode",
+	"bin": {
+		"dark-mode": "dark-mode"
+	},
 	"files": [
 		"dark-mode"
 	],
